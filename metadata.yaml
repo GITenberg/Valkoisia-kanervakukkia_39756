@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5981
     wikipedia: http://sv.wikipedia.org/wiki/Mathilda_Roos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39756#Valkoisia-kanervakukkia
 gutenberg_issued: '2012-05-22'
 gutenberg_type: Text
 identifiers:
