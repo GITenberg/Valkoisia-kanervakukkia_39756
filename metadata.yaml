@@ -1,0 +1,35 @@
+_repo: Valkoisia-kanervakukkia_39756
+_version: 0.1.0
+alternative_title: Hvit ljung. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Aune
+    birthdate: 1881
+    deathdate: 1967
+    gutenberg_agent_id: '38777'
+    url: http://www.gutenberg.org/2009/agents/38777
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roos, Mathilda
+    birthdate: 1852
+    deathdate: 1908
+    gutenberg_agent_id: '5981'
+    url: http://www.gutenberg.org/2009/agents/5981
+    wikipedia: http://sv.wikipedia.org/wiki/Mathilda_Roos
+description: ''
+gutenberg_issued: '2012-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39756'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: Valkoisia kanervakukkia
+url: http://www.gutenberg.org/ebooks/39756
